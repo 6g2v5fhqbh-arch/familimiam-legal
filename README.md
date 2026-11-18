@@ -1,2 +1,4 @@
-# familimiam-legal
-FamiliMiam App Store privacy &amp; support pages
+# FamiliMiam — pages légales App Store
+
+- [Politique de confidentialité](privacy.html)
+- [Assistance](support.html)
